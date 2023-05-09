@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\bin\Debug\ChapeauUI.exe.config
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\bin\Debug\ChapeauUI.exe
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\bin\Debug\ChapeauUI.pdb
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.exe
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauUI\obj\Debug\ChapeauUI.pdb

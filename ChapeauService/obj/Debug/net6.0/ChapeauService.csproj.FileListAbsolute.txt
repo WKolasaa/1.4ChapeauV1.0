@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\bin\Debug\net6.0\ChapeauService.deps.json
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\bin\Debug\net6.0\ChapeauService.dll
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\bin\Debug\net6.0\ChapeauService.pdb
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.dll
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\refint\ChapeauService.dll
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.pdb
+C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ref\ChapeauService.dll
