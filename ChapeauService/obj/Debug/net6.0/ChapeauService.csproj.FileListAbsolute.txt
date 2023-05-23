@@ -10,3 +10,20 @@ C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauServ
 C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\refint\ChapeauService.dll
 C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ChapeauService.pdb
 C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauService\obj\Debug\net6.0\ref\ChapeauService.dll
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\bin\Debug\net6.0\ChapeauService.deps.json
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\bin\Debug\net6.0\ChapeauService.dll
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\bin\Debug\net6.0\ChapeauService.pdb
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\bin\Debug\net6.0\ChapeauDAL.dll
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\bin\Debug\net6.0\ChapeauModel.dll
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\bin\Debug\net6.0\ChapeauDAL.pdb
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\bin\Debug\net6.0\ChapeauModel.pdb
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.csproj.AssemblyReference.cache
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.AssemblyInfoInputs.cache
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.AssemblyInfo.cs
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.csproj.CoreCompileInputs.cache
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.csproj.CopyComplete
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.dll
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\refint\ChapeauService.dll
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ChapeauService.pdb
+C:\Users\salma\Source\Repos\WKolasaa\1.4ChapeauV1.0\ChapeauService\obj\Debug\net6.0\ref\ChapeauService.dll

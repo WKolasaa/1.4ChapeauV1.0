@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ChapeauDAL",
+    "\\ChapeauService"
   ],
-  "SelectedNode": "\\Chapeau_Project_IT1A_G1.sln",
+  "SelectedNode": "\\ChapeauDAL\\EmployeeDAO.cs",
   "PreviewInSolutionExplorer": false
 }
