@@ -366,7 +366,15 @@ FodyWeavers.xsd
 .DS_Store 
 
 #folders obj and bin 
-bin/
-obj/
+ChapeauDAL/bin/
+ChapeauDAL/obj/
+ChapeauModel/bin/
+ChapeauModel/obj/
+ChapeauService/bin/
+ChapeauService/obj/
+ChapeauUI/bin/
+ChapeauUI/obj/
+.vs/
+
 
 
