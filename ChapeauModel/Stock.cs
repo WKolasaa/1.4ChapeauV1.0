@@ -9,7 +9,7 @@ namespace ChapeauModel
 {
     public class Stock
     {
-        public int StockID { get; set; }
+        public uint StockID { get; set; }
         public string StockName { get; set;}
         public uint Quantity { get; set;} 
     }
