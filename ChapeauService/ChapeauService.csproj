@@ -10,4 +10,9 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ChapeauDAL\ChapeauDAL.csproj" />
+    <ProjectReference Include="..\ChapeauModel\ChapeauModel.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -276,6 +276,19 @@
             "rid": "win"
           }
         }
+      },
+      "ChapeauModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChapeauModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChapeauModel.dll": {}
+        }
       }
     }
   },
@@ -774,33 +787,34 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ChapeauModel/1.0.0": {
+      "type": "project",
+      "path": "../ChapeauModel/ChapeauModel.csproj",
+      "msbuildProject": "../ChapeauModel/ChapeauModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ChapeauModel >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 7.0.0",
       "System.Data.SqlClient >= 4.8.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Inholland\\Project1.4\\ChapeauDAL\\ChapeauDAL.csproj",
+      "projectUniqueName": "C:\\Users\\abdelrahmanghonim\\source\\repos\\1.4Chapeau\\ChapeauDAL\\ChapeauDAL.csproj",
       "projectName": "ChapeauDAL",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Inholland\\Project1.4\\ChapeauDAL\\ChapeauDAL.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Inholland\\Project1.4\\ChapeauDAL\\obj\\",
+      "projectPath": "C:\\Users\\abdelrahmanghonim\\source\\repos\\1.4Chapeau\\ChapeauDAL\\ChapeauDAL.csproj",
+      "packagesPath": "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abdelrahmanghonim\\source\\repos\\1.4Chapeau\\ChapeauDAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\abdelrahmanghonim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -813,7 +827,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\abdelrahmanghonim\\source\\repos\\1.4Chapeau\\ChapeauModel\\ChapeauModel.csproj": {
+              "projectPath": "C:\\Users\\abdelrahmanghonim\\source\\repos\\1.4Chapeau\\ChapeauModel\\ChapeauModel.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -851,7 +869,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

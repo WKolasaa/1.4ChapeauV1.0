@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauMode
 C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauModel\obj\Debug\net6.0\refint\ChapeauModel.dll
 C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauModel\obj\Debug\net6.0\ChapeauModel.pdb
 C:\Users\Admin\Desktop\Inholland\Project 1.4\Chapeau_Project_IT1A_G1\ChapeauModel\obj\Debug\net6.0\ref\ChapeauModel.dll
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\bin\Debug\net6.0\ChapeauModel.deps.json
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\bin\Debug\net6.0\ChapeauModel.dll
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\bin\Debug\net6.0\ChapeauModel.pdb
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ChapeauModel.csproj.AssemblyReference.cache
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ChapeauModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ChapeauModel.AssemblyInfoInputs.cache
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ChapeauModel.AssemblyInfo.cs
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ChapeauModel.dll
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\refint\ChapeauModel.dll
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ChapeauModel.pdb
+C:\Users\abdelrahmanghonim\Source\Repos\1.4Chapeau\ChapeauModel\obj\Debug\net6.0\ref\ChapeauModel.dll

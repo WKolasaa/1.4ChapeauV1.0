@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ux8yTwkSsXWIZjQb5P7+WJV+T3j/nOxC1JT943GFizsy9QztTQJ40P2Q23FjaiAwCgt0adkvAxd9J+zzkpx3pA==",
+  "dgSpecHash": "SZgStSwus3PtA7r1gWGKWpnd9QlkanhhzUQTefThdiaDptbJFW7RHruzZJGKT2irMd5YHd9/qjOy6XZIjdkfzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Inholland\\Project1.4\\ChapeauModel\\ChapeauModel.csproj",
+  "projectFilePath": "C:\\Users\\abdelrahmanghonim\\source\\repos\\1.4Chapeau\\ChapeauModel\\ChapeauModel.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+    "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\abdelrahmanghonim\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

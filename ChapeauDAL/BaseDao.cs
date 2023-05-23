@@ -3,12 +3,12 @@ using System.Data.SqlClient;
 using System.Configuration;
 using System.Data;
 
-namespace SomerenDAL
+namespace ChapeauDAL
 {
     public abstract class BaseDao
     {
-        private SqlDataAdapter adapter;
-        private SqlConnection conn;
+        protected SqlDataAdapter adapter;
+        protected SqlConnection conn;
 
         public BaseDao()
         {
