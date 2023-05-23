@@ -8,7 +8,7 @@ namespace ChapeauModel
 {
     public class Payment
     {
-        public decimal Price { get; set; }// ok
+        public decimal Price { get; set; }
         public string feedBack { get; set;}
         public int tableNumber;
         public int numberOfPeople;
